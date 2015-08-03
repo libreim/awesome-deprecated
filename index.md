@@ -13,8 +13,7 @@ en Ingeniería Informática y Matemáticas.
 ## Añadir recursos
 
 ¡Añadir un recurso es muy sencillo! Simplemente encuentra la categoría en la que encaja
-mejor dentro de las carpetas [_math_resources](https://github.com/dgiim/awesome/tree/gh-pages/_math_resources) y
-[_cs_resources](https://github.com/dgiim/awesome/tree/gh-pages/_cs_resources) y utiliza una
+mejor, haz clic en el enlace *Editar* de la parte superior derecha y utiliza una
 de las siguientes plantillas según sea una referencia o un enlace:
 
 ~~~markdown
