@@ -27,11 +27,11 @@ layout: resource
 [Programming Lua - lua.org](http://www.lua.org/manual/5.3/manual.html) - *Manual del lenguaje Lua 5.3*  
 [Live demo - lua.org](http://www.lua.org/demo.html) - *Demo live de Lua *
 
-##Vim
+## Python
+[Programación Python - docs.python.org](http://docs.python.org.ar/tutorial/3/index.html) - *Tutorial completo y en español sobre Python*
+
+## Vim
 [Interactive Vim Tutorial](http://www.openvim.com/tutorial.html) - *Tutorial sobre vim y sus comandos.*
 
 ## Control de versiones
 [Manual rápido de Github/Git - DGIIM](https://github.com/dgiim/dgiim.github.io/blob/master/manualgit.md) - *Tutorial rápido de introducción a Git*
-
-##Python
-[Programación Python - docs.python.org](http://docs.python.org.ar/tutorial/3/index.html) - *Tutorial completo y en español sobre Python*
