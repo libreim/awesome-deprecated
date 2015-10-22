@@ -32,3 +32,6 @@ layout: resource
 
 ## Control de versiones
 [Manual rápido de Github/Git - DGIIM](https://github.com/dgiim/dgiim.github.io/blob/master/manualgit.md) - *Tutorial rápido de introducción a Git*
+
+##Python
+[Programación Python - docs.python.org](http://docs.python.org.ar/tutorial/3/index.html) - *Tutorial completo y en español sobre Python*
