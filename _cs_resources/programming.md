@@ -23,7 +23,14 @@ layout: resource
 ## Haskell
 [Learn you a Haskell for great good - learnyouahaskell.com](http://learnyouahaskell.com/chapters) - *Tutorial de introducción a Haskell. Versión en castellano [¡Aprende Haskell por el bien de todos!](http://aprendehaskell.es/main.html)*
 
-##Vim
+## Lua
+[Programming Lua - lua.org](http://www.lua.org/manual/5.3/manual.html) - *Manual del lenguaje Lua 5.3*  
+[Live demo - lua.org](http://www.lua.org/demo.html) - *Demo live de Lua *
+
+## Python
+[Programación Python - docs.python.org](http://docs.python.org.ar/tutorial/3/index.html) - *Tutorial completo y en español sobre Python*
+
+## Vim
 [Interactive Vim Tutorial](http://www.openvim.com/tutorial.html) - *Tutorial sobre vim y sus comandos.*
 
 ## Control de versiones
