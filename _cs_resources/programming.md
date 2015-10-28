@@ -28,7 +28,7 @@ layout: resource
 [Live demo - lua.org](http://www.lua.org/demo.html) - *Demo live de Lua*
 
 ## Python
-[Programación Python - docs.python.org](http://docs.python.org.ar/tutorial/3/index.html) - *Tutorial completo y en español sobre Python*
+[Programación Python - docs.python.org](http://docs.python.org.ar/tutorial/3/index.html) - *Tutorial completo y en español sobre Python*  
 [Programming Python - docs.python-guide.org](http://docs.python-guide.org/en/latest/) - *Guía de Python con comparativas entre diferentes formas de programar*
 
 ## Vim
