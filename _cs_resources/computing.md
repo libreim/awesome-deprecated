@@ -1,5 +1,5 @@
 ---
-title: Computación
+title: Computación e IA
 layout: resource
 ---
 
