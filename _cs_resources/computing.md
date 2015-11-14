@@ -9,4 +9,4 @@ layout: resource
 [Guía docente de Modelos avanzados de computación - UGR](http://grados.ugr.es/informaticaymatematicas/pages/infoacademica/guiasdocentes/201415/cuarto/2semestre/modelosavanzadosdecomputaciongim1415/!)  
 
 ## Inteligencia Artificial
-[Introducción a las Redes Neuronales - Francisco Charte](https://github.com/Test-SIMIDAT/Redes-Neuronales/blob/master/RedesNeuronales.md)
+[Introducción a las Redes Neuronales con R - Francisco Charte](https://github.com/Test-SIMIDAT/Redes-Neuronales/blob/master/RedesNeuronales.md)
