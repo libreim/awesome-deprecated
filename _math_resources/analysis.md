@@ -26,3 +26,7 @@ layout: resource
 
 ## Teoría de la medida
 [An introduction to measure theory - Terence Tao](http://terrytao.files.wordpress.com/2011/01/measure-book1.pdf) - *Libro de introducción a la teoría de la medida*
+
+## Análisis funcional
+[Análisis funcional - Juan Carlos Cabello](https://www.ugr.es/~dpto_am/docencia/Apuntes/Analisis_funcional_cabello.pdf) - *Apuntes que cubren la materia de la asignatura Análisis funcional*  
+[Apuntes de Análisis funcional - Rafael Payá](https://www.ugr.es/~dpto_am/docencia/Apuntes/Analisis_Funcional_Paya.pdf) - *Otros apuntes de contenido similar*  
