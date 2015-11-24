@@ -5,6 +5,16 @@ layout: resource
 
 Material publicado o utilizado a raíz de los seminarios del Doble Grado.
 
+## Temporada 2015-2016
+
+### Vigésimo segundo seminario
+  * Conceptos fundamentales del Álgebra - Andrés Herrera
+
+### Vigésimo primer seminario
+  * [Herramientas para Informática y Matemáticas - David Charte](https://github.com/dgiim/herramientas-im)
+
+## Temporada 2014-2015
+
 ### Vigésimo seminario
   * [Veaml - David Charte](http://fdavidcl.github.io/veaml/)
   * Problemas de la revista Archimede - Colectivo

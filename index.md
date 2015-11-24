@@ -7,13 +7,13 @@ title: Awesome
 
 Awesome, como muchas otras listas de nombre similar, es una serie de recopilaciones de
 enlaces y bibliografías útiles. Los materiales que se referencian en estas secciones
-son dirigidos al estudio y apprendizaje de las materias relacionadas con el Doble Grado
+son dirigidos al estudio y aprendizaje de las materias relacionadas con el Doble Grado
 en Ingeniería Informática y Matemáticas.
 
 ## Añadir recursos
 
 ¡Añadir un recurso es muy sencillo! Simplemente encuentra la categoría en la que encaja
-mejor dentro de las carpetas [_math_resources]() y [_cs_resources]() y utiliza una
+mejor, haz clic en el enlace *Editar* de la parte superior derecha y utiliza una
 de las siguientes plantillas según sea una referencia o un enlace:
 
 ~~~markdown
@@ -33,7 +33,7 @@ ayudar:
 
 * Si tu material es uno o varios documentos PDF, elige una licencia [Creative Commons](https://creativecommons.org/choose/)
   y añade la nota sobre la licencia al final del documento (la portada o el índice también
-  pueden ser buenos lugares). Sube el documento a Internet y ¡compártelo!.
+  pueden ser buenos lugares). Sube el documento a Internet y ¡compártelo!
 
 * Si tu material es un documento a partir de código (por ejemplo LaTeX o Markdown),
   puedes escoger una licencia [Creative Commons](https://creativecommons.org/choose/)
