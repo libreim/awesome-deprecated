@@ -3,7 +3,7 @@ title: Sin clasificar
 layout: resource
 ---
 
-[Guías docentes](http://grados.ugr.es/informaticaymatematicas/pages/infoacademica/guia-docente#__doku_quinto_2015-2016) - *Guías completas del doble grado de la UGR*
+[Guías docentes](http://grados.ugr.es/informaticaymatematicas/pages/infoacademica/guia-docente) - *Guías completas del doble grado de la UGR*
 
 [LaTeX - Wikibooks](https://en.wikibooks.org/wiki/LaTeX) - *Guía extensa para el uso del lenguaje LaTeX*
 
