@@ -38,4 +38,4 @@ layout: resource
 [Manual rápido de Github/Git - DGIIM](https://github.com/dgiim/dgiim.github.io/blob/master/manualgit.md) - *Tutorial rápido de introducción a Git*
 
 ## Android
-[Programación Android - sgoliver.net](http://www.sgoliver.net/blog/curso-de-programacion-android/indice-de-contenidos/) -*Curso online de programación Android, disponible en pdf las versiones anteriores*
+[Programación Android - Salvador Gómez Oliver (sgoliver.net)](http://www.sgoliver.net/blog/curso-de-programacion-android/indice-de-contenidos/) -*Curso online de programación Android, disponible en pdf las versiones anteriores*
