@@ -10,7 +10,7 @@ layout: resource
 [Guía docente de Fundamentos de ingeniería del software - UGR](http://grados.ugr.es/informaticaymatematicas/pages/infoacademica/guiasdocentes/201415/tercero/1semestre/fundamentosdeingenieriadelsoftwaregim1415/!)  
 
 ## C/C++
-[Standard C++ library reference - www.cplusplus.com](http://www.cplusplus.com/reference/) - *Referencia de la STD en C++*
+[Standard C++ library reference - www.cplusplus.com](http://www.cplusplus.com/reference/) - *Referencia de la STD en C++*  
 [The GNU C reference manual - www.gnu.org](http://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) - *Referencia del lenguaje C*  
 [An Idiot's Guide to C++ Templates - Part 1](http://www.codeproject.com/Articles/257589/An-Idiots-Guide-to-Cplusplus-Templates-Part) - *Práctica guía sobre plantillas en C++. Viene bien para saber como el compilador trabaja con ellas*  
 
