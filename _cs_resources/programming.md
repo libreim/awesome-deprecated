@@ -20,6 +20,9 @@ layout: resource
 ## Ruby
 [Programming Ruby - ruby-doc.com](http://ruby-doc.com/docs/ProgrammingRuby/) - *Tutorial y referencia del lenguaje Ruby*
 
+### Ruby on Rails
+[Ruby on Rails Guides](http://guides.rubyonrails.org/) - *Extensas guías acerca del uso de Rails junto con el patrón MVC*
+
 ## Haskell
 [Learn you a Haskell for great good - learnyouahaskell.com](http://learnyouahaskell.com/chapters) - *Tutorial de introducción a Haskell. Versión en castellano [¡Aprende Haskell por el bien de todos!](http://aprendehaskell.es/main.html)*
 
