@@ -3,16 +3,6 @@ title: Análisis
 layout: resource
 ---
 
-## Guías docentes
-[Guía docente de Cálculo I - UGR](http://grados.ugr.es/informaticaymatematicas/pages/infoacademica/guiasdocentes/201415/primero/1semestre/calculoi/!)  
-[Guía docente de Cálculo II - UGR](http://grados.ugr.es/informaticaymatematicas/pages/infoacademica/guiasdocentes/201415/primero/2semestre/calculoii/!)  
-[Guía docente de Análisis I - UGR](http://grados.ugr.es/informaticaymatematicas/pages/infoacademica/guiasdocentes/201415/segundo/1semestre/analisismatematicoi/!)  
-[Guía docente de Análisis II - UGR](http://grados.ugr.es/informaticaymatematicas/pages/infoacademica/guiasdocentes/201415/segundo/2semestre/analisismatematicoii/!)  
-[Guía docente de Ecuaciones diferenciales I - UGR](http://grados.ugr.es/informaticaymatematicas/pages/infoacademica/guiasdocentes/201415/tercero/1semestre/ecuacionesdiferencialesi/!)  
-[Guía docente de Ecuaciones diferenciales II - UGR](http://grados.ugr.es/informaticaymatematicas/pages/infoacademica/guiasdocentes/201415/cuarto/2semestre/ecuacionesdiferencialesii/1)  
-[Guía docente de Variable compleja I - UGR](http://grados.ugr.es/informaticaymatematicas/pages/infoacademica/guiasdocentes/201415/tercero/2semestre/variablecomplejai/!)  
-[Guía docente de Análisis vectorial - UGR](http://grados.ugr.es/informaticaymatematicas/pages/infoacademica/guiasdocentes/201415/cuarto/1semestre/analisis_vectorial/!)  
-
 ## Análisis en una variable
 [Cálculo diferencial e integral de funciones en una variable - Francisco Javier Pérez](http://www.ugr.es/~fjperez/textos/calculo_diferencial_integral_func_una_var.pdf)  
 

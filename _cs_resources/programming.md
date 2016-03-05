@@ -3,12 +3,6 @@ title: Programación
 layout: resource
 ---
 
-## Guías docentes
-[Guía docente de Fundamentos de programación - UGR](http://grados.ugr.es/informaticaymatematicas/pages/infoacademica/guiasdocentes/201415/primero/1semestre/fundamentosdeprogramaciongim1415/!)  
-[Guía docente de Metodología de la programación - UGR](http://grados.ugr.es/informaticaymatematicas/pages/infoacademica/guiasdocentes/201415/primero/2semestre/metodologiadelaprogramacion/!)  
-[Guía docente de Programación y diseño orientado a objetos - UGR](http://grados.ugr.es/informaticaymatematicas/pages/infoacademica/guiasdocentes/201415/segundo/2semestre/programacionydiseaoorientadoaobjetos/!)  
-[Guía docente de Fundamentos de ingeniería del software - UGR](http://grados.ugr.es/informaticaymatematicas/pages/infoacademica/guiasdocentes/201415/tercero/1semestre/fundamentosdeingenieriadelsoftwaregim1415/!)  
-
 ## C/C++
 [Standard C++ library reference - www.cplusplus.com](http://www.cplusplus.com/reference/) - *Referencia de la STD en C++*  
 [The GNU C reference manual - www.gnu.org](http://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) - *Referencia del lenguaje C*  
