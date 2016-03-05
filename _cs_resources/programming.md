@@ -19,6 +19,7 @@ layout: resource
 
 ## Ruby
 [Programming Ruby - ruby-doc.com](http://ruby-doc.com/docs/ProgrammingRuby/) - *Tutorial y referencia del lenguaje Ruby*
+[Ruby User's Guide - http://www.rubyist.net/~slagell/ruby/index.html](http://www.rubyist.net/~slagell/ruby/index.html) - *Tutorial rápido de Ruby*
 
 ### Ruby on Rails
 [Ruby on Rails Guides](http://guides.rubyonrails.org/) - *Extensas guías acerca del uso de Rails junto con el patrón MVC*
