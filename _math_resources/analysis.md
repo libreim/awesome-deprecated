@@ -10,6 +10,8 @@ layout: resource
 [Cálculo diferencial en varias variables - Francisco Javier Pérez](http://www.ugr.es/~fjperez/textos/Calculo_Diferencial_Varias_Variables.pdf)  
 [Cálculo vectorial. Series de Fourier. Teorema de los residuos - Francisco Javier Pérez](http://www.ugr.es/~fjperez/textos/calculo_vectorial_fourier_residuos.pdf)  
 [Curso de análisis complejo - Francisco Javier Pérez](http://www.ugr.es/~fjperez/textos/funciones_variable_compleja.pdf)  
+**Apuntes de Análisis Matemático I** - María D. Acosta, Camilo Aparicio, Antonio Moreno, Armando R. Villena - **UGR** - *Apuntes acerca de la derivación en varias variables e introducción a la Teoría de la Medida usados para el estudio de las asignaturas de Análisis Matemático I y II, respectivamente*  
+**Principles of Mathematical Analysis** - Walter Rudin - *Libro que trata de manera extendida los temas de Análisis en Varias Variables, Teoría de la Medida e Integración en Varias Variables, y Análisis en Variable Compleja*  
 
 ## Ecuaciones diferenciales
 [Ecuaciones diferenciales. Transformadas de Fourier y de Laplace - Francisco Javier Pérez](http://www.ugr.es/~fjperez/textos/eedd_laplace_fourier.pdf)
