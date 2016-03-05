@@ -16,8 +16,8 @@ layout: resource
 
 ## Álgebra abstracta
 **Algebra: Chapter 0** - Paolo Aluffi  
-[Álgebra - Carlos Ivorra](http://www.uv.es/ivorra/Libros/Algebra.pdf)
-[Apuntes de Álgebra III - Eugenio Miranda Palacio](http://www.ugr.es/~agarzon/webAlgIII/algebraiii.pdf)
+[Álgebra - Carlos Ivorra](http://www.uv.es/ivorra/Libros/Algebra.pdf)  
+[Apuntes de Álgebra III - Eugenio Miranda Palacio](http://www.ugr.es/~agarzon/webAlgIII/algebraiii.pdf)  
 **Elements of Abstract Algebra** - Allan Clark - *Introducción al Álgebra Abstracta, trata de forma concisa y elegante los siguientes temas: Teoría de Grupos, Cuerpos, Teoría de Galois y Teoría de Anillos*
 
 ## Álgebra General
