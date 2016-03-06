@@ -1,4 +1,4 @@
-[awesome](https://dgiim.github.io/awesome)
+[Awesome](http://tux.ugr.es/dgiim/awesome/)
 ==========
 
 Recopilaciones de recursos útiles para estudiar Informática y Matemáticas.
