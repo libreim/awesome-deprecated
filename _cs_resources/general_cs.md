@@ -23,3 +23,6 @@ layout: resource
 
 [Apuntes Ingeniería Informática - Matemáticas](https://github.com/VicdeJuan/Apuntes) - *Apuntes del doble grado en Informática-Matemáticas de la Universidad Autónoma de Madrid*
 
+## Legal
+
+[TL;DR Legal](https://tldrlegal.com/) - *Condiciones de licencias de software resumidas*
