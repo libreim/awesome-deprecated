@@ -33,7 +33,7 @@ layout: resource
 [Interactive Vim Tutorial](http://www.openvim.com/tutorial.html) - *Tutorial sobre vim y sus comandos.*
 
 ## Control de versiones
-[Manual rápido de Github/Git - LibreIM](https://github.com/dgiim/dgiim.github.io/blob/master/manualgit.md) - *Tutorial rápido de introducción a Git*
+[Manual rápido de Github/Git - LibreIM](https://github.com/libreim/libreim.github.io/blob/master/manualgit.md) - *Tutorial rápido de introducción a Git*
 
 ## Android
 [Programación Android - Salvador Gómez Oliver (sgoliver.net)](http://www.sgoliver.net/blog/curso-de-programacion-android/indice-de-contenidos/) -*Curso online de programación Android, disponible en pdf las versiones anteriores*
