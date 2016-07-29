@@ -19,7 +19,7 @@
           </div>
           {% if page.url != '/' %}
             <div class="edit-button pure-u-0 pure-u-md-1-3 pure-u-lg-1-4">
-              <a class="edit" href="https://github.com/dgiim/awesome/edit/gh-pages/{{ post.relative_path }}">
+              <a class="edit" href="https://github.com/libreim/awesome/edit/gh-pages/{{ post.relative_path }}">
                 <i class="fa fa-pencil"></i> Editar
               </a>
             </div>
