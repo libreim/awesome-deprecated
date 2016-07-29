@@ -11,7 +11,7 @@ Material publicado o utilizado a raíz de los seminarios del Doble Grado.
   * Conceptos fundamentales del Álgebra - Andrés Herrera
 
 ### Vigésimo primer seminario
-  * [Herramientas para Informática y Matemáticas - David Charte](https://github.com/dgiim/herramientas-im)
+  * [Herramientas para Informática y Matemáticas - David Charte](https://github.com/libreim/herramientas-im)
 
 ## Temporada 2014-2015
 
@@ -23,15 +23,15 @@ Material publicado o utilizado a raíz de los seminarios del Doble Grado.
   * Una introducción a Kaggle: Digit Recognizer - Andrés Herrera
 
 ### Decimoctavo seminario
-  * [Álgebra de tipos - Mario Román](https://dgiim.github.io/blog/2015/03/24/algebra-tipos)
-  * Escribiendo para el Blog DGIIM - David Charte
+  * [Álgebra de tipos - Mario Román](https://libreim.github.io/blog/2015/03/24/algebra-tipos)
+  * Escribiendo para el Blog LibreIM - David Charte
 
 ### Decimoséptimo seminario
-  * Hackathon de la OSL. Blog DGIIM - Colectivo
+  * Hackathon de la OSL. Blog LibreIM - Colectivo
 
 ### Decimosexto seminario
   * [Introducción a Travis CI - David Charte](https://github.com/fdavidcl/example-ci)
-  * [¿Cómo usar beamer? - Pablo Baeyens](https://github.com/dgiim/beamer)
+  * [¿Cómo usar beamer? - Pablo Baeyens](https://github.com/libreim/beamer)
 
 ### Decimoquinto seminario
   * Open Data. Proyecto Petra - David Charte
@@ -42,7 +42,7 @@ Material publicado o utilizado a raíz de los seminarios del Doble Grado.
   * Problemas de Hackerrank - Colectivo
 
 ### Decimotercer seminario
-  * [Computación cuántica y el producto tensorial - Ignacio Cordón y Mario Román](https://github.com/dgiim/qubits)
+  * [Computación cuántica y el producto tensorial - Ignacio Cordón y Mario Román](https://github.com/libreim/qubits)
 
 ### Duodécimo seminario
   * [Sed hackers - Víctor Terrón (Instituto de Astrofísica de Andalucía)](https://github.com/vterron/sed-hackers)
@@ -72,22 +72,22 @@ Material publicado o utilizado a raíz de los seminarios del Doble Grado.
   * Problemas de la Olimpiada Iberoamericana de Matemática Universitaria - Colectivo
 
 ### Quinto seminario
-  * [Introducción a los Algoritmos Genéticos - Andrés Herrera](https://github.com/dgiim/AlgoritmosGeneticos)
-  * [Tipos, teoremas y demostraciones por ordenador - Mario Román](https://github.com/dgiim/curryHoward/tree/master/src)
+  * [Introducción a los Algoritmos Genéticos - Andrés Herrera](https://github.com/libreim/AlgoritmosGeneticos)
+  * [Tipos, teoremas y demostraciones por ordenador - Mario Román](https://github.com/libreim/curryHoward/tree/master/src)
 
 ### Cuarto seminario
   * Latex, Git, GitHub y otras herramientas - David Charte, Ignacio Cordón y Mario Román
-  * [Funciones especiales: Gamma, Beta y Digamma - Ignacio Cordón](https://github.com/dgiim/functions)
-  * [El isomorfismo de Curry-Howard - Mario Román](https://github.com/dgiim/curryHoward)
+  * [Funciones especiales: Gamma, Beta y Digamma - Ignacio Cordón](https://github.com/libreim/functions)
+  * [El isomorfismo de Curry-Howard - Mario Román](https://github.com/libreim/curryHoward)
 
 ### Tercer seminario
-  * [Algoritmos de Clasificación en Minería de Datos - David Charte](https://github.com/dgiim/data-mining-classification)
+  * [Algoritmos de Clasificación en Minería de Datos - David Charte](https://github.com/libreim/data-mining-classification)
   * Resolución de problemas de matemáticas y programación - Colectivo
 
 ### Segundo seminario
-  * [Introducción a la Teoría de Categorías - Mario Román](https://github.com/dgiim/introCategorias)
-  * [Algoritmos de Clasificación en Minería de Datos - David Charte](https://github.com/dgiim/data-mining-classification)
+  * [Introducción a la Teoría de Categorías - Mario Román](https://github.com/libreim/introCategorias)
+  * [Algoritmos de Clasificación en Minería de Datos - David Charte](https://github.com/libreim/data-mining-classification)
 
 ### Primer seminario
-  * [Introducción a la Teoría de Categorías - Mario Román](https://github.com/dgiim/introCategorias)
-  * [Introducción al lenguaje Haskell - Pablo Baeyens y Mario Román](https://github.com/dgiim/introHaskell)
+  * [Introducción a la Teoría de Categorías - Mario Román](https://github.com/libreim/introCategorias)
+  * [Introducción al lenguaje Haskell - Pablo Baeyens y Mario Román](https://github.com/libreim/introHaskell)
