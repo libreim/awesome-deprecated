@@ -1,13 +1,15 @@
 baseurl: /awesome
-title: LibreIM
-
+exclude:
+  - includes
+  - layouts
+  - Gemfile
+  - LICENSE
+  - README.md
 collections:
   common:
     output: true
-    permalink: /:path/
-  math_resources:
-    output: true
-    permalink: /:path/
   cs_resources:
     output: true
-    permalink: /:path/
+  math_resources:
+    output: true
+permalink: pretty

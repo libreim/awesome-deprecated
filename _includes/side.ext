@@ -3,18 +3,18 @@
   <h3>Común</h3>
 
   {% for resource in site.common %}
-    <p><a href="{{ site.baseurl }}{{ resource.url }}">{{ resource.title }}</a></p>
+    <p><a href="{{ site.base_path }}{{ site.baseurl }}{{ resource.url }}">{{ resource.title }}</a></p>
   {% endfor %}
 
   <h3>Matemáticas</h3>
 
   {% for resource in site.math_resources %}
-    <p><a href="{{ site.baseurl }}{{ resource.url }}">{{ resource.title }}</a></p>
+    <p><a href="{{ site.base_path }}{{ site.baseurl }}{{ resource.url }}">{{ resource.title }}</a></p>
   {% endfor %}
 
   <h3>Informática</h3>
 
   {% for resource in site.cs_resources %}
-    <p><a href="{{ site.baseurl }}{{ resource.url }}">{{ resource.title }}</a></p>
+    <p><a href="{{ site.base_path }}{{ site.baseurl }}{{ resource.url }}">{{ resource.title }}</a></p>
   {% endfor %}
 </nav>
