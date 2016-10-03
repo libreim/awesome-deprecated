@@ -7,6 +7,15 @@ Material publicado o utilizado a raíz de los seminarios del Doble Grado.
 
 ## Temporada 2015-2016
 
+### Vigésimo quinto seminario
+  * [Eficiencia y algoritmos de ordenación - Francisco Gallego](https://github.com/fgallegosalido/Algoritmos-Ordenacion)
+
+### Vigésimo cuarto seminario
+  * Teoría de tipos - Mario Román
+
+### Vigésimo tercer seminario
+  * [Introducción a Haskell - Pablo Baeyens y Mario Román](https://github.com/libreim/introHaskell)
+
 ### Vigésimo segundo seminario
   * Conceptos fundamentales del Álgebra - Andrés Herrera
 
