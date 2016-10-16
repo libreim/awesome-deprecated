@@ -1,7 +1,7 @@
 
 <nav class="side">
   <h3>Común</h3>
-
+    <p><a href="https://libreim.github.io/apuntesDGIIM">Apuntes</a></p>
   {% for resource in site.common %}
     <p><a href="{{ site.baseurl }}{{ resource.url }}">{{ resource.title }}</a></p>
   {% endfor %}
