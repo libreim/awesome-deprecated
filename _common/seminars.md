@@ -4,6 +4,11 @@ layout: resource
 ---
 
 Material publicado o utilizado a raíz de los seminarios del Doble Grado.
+## Temporada 2016-2017
+
+### Vigésimo sexto seminario
+  * [Herramientas para Informática y Matemáticas - David Charte](https://github.com/libreim/herramientas-im)
+  * Introducción a R y RStudio - Ignacio Cordón
 
 ## Temporada 2015-2016
 
