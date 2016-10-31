@@ -4,6 +4,7 @@ layout: resource
 ---
 
 Material publicado o utilizado a raíz de los seminarios del Doble Grado.
+
 ## Temporada 2016-2017
 
 ### Vigésimo sexto seminario
