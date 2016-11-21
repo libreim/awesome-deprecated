@@ -7,6 +7,10 @@ Material publicado o utilizado a raíz de los seminarios del Doble Grado.
 
 ## Temporada 2016-2017
 
+### Vigésimo séptimo seminario
+  * [Aprende Ruby en diez líneas - David Charte](https://github.com/libreim/oneline)
+  * [Perdiendo el miedo a Emacs - Mario Román](https://m42.github.io/talks/emacs.html)
+
 ### Vigésimo sexto seminario
   * [Los esenciales para Informática y Matemáticas - David Charte, Mario Román](https://github.com/libreim/herramientas-im)
   * Introducción a R y RStudio - Ignacio Cordón
