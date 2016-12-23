@@ -24,7 +24,7 @@ Material publicado o utilizado a raíz de los seminarios del Doble Grado.
   * Teoría de tipos - Mario Román
 
 ### Vigésimo tercer seminario
-  * [Introducción a Haskell - Pablo Baeyens](https://github.com/libreim/introHaskell)
+  * [Introducción a Haskell - Pablo Baeyens](https://github.com/libreim/haskell)
 
 ### Vigésimo segundo seminario
   * Conceptos fundamentales del Álgebra - Andrés Herrera
