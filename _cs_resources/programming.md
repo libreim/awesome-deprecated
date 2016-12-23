@@ -21,6 +21,8 @@ layout: resource
 ## Haskell
 [Learn you a Haskell for great good - learnyouahaskell.com](http://learnyouahaskell.com/chapters) - *Tutorial de introducción a Haskell. Versión en castellano [¡Aprende Haskell por el bien de todos!](http://aprendehaskell.es/main.html)*
 
+[Real World Haskell - realworldhaskell.org](http://book.realworldhaskell.org/)
+
 ## Lua
 [Programming Lua - lua.org](http://www.lua.org/manual/5.3/manual.html) - *Manual del lenguaje Lua 5.3*  
 [Live demo - lua.org](http://www.lua.org/demo.html) - *Demo live de Lua*
