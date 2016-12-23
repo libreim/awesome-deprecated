@@ -1,4 +1,4 @@
-[Awesome](http://tux.ugr.es/dgiim/awesome/)
+[Awesome](http://tux.ugr.es/libreim/awesome/)
 ==========
 
 Recopilaciones de recursos útiles para estudiar Informática y Matemáticas.
