@@ -3,7 +3,10 @@ layout: resource
 title: Awesome
 ---
 
-<style type="text/css">header .l-res { color: #c0c0c0; } .backtomain { display: none; }</style>
+<style type="text/css">
+header .l-res { color: #c0c0c0; } 
+article .post-data { display: none; }
+</style>
 
 Awesome, como muchas otras listas de nombre similar, es una serie de recopilaciones de
 enlaces y bibliografías útiles. Los materiales que se referencian en estas secciones
