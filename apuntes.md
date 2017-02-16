@@ -78,8 +78,12 @@ Aún no hay apuntes.
 
 ## Asignaturas optativas
 
-Aún no hay apuntes.
+### Álgebra Conmutativa y Computacional
 
+ - [Álgebra Conmutativa y Computacional](https://libreim.github.io/abstract-algebra/conmutativa.html)
+ - [Código fuente](https://github.com/libreim/abstract-algebra/blob/master/conmutativa.org)
+
+Escritos por Mario Román desde las clases de Pilar Carrasco (UGR).
 ## Apuntes adicionales
 
 ### Algoritmos Genéticos
