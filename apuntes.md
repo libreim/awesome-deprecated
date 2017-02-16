@@ -84,6 +84,7 @@ Aún no hay apuntes.
  - [Código fuente](https://github.com/libreim/abstract-algebra/blob/master/conmutativa.org)
 
 Escritos por Mario Román desde las clases de Pilar Carrasco (UGR).
+
 ## Apuntes adicionales
 
 ### Algoritmos Genéticos
