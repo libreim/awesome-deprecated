@@ -74,7 +74,11 @@ Escritos por Rodrigo Raya desde las clases de Pilar Carrasco (UGR).
 
 ## Cuarto curso
 
-Aún no hay apuntes.
+### Inferencia estadística
+
+ - [Inferencia Estadística](https://github.com/libreim/inferencia-estadistica/blob/master/StatisticalInference/inference.pdf)
+ - [Código fuente](https://github.com/libreim/inferencia-estadistica/tree/master/StatisticalInference)
+
 
 ## Asignaturas optativas
 
