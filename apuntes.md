@@ -13,7 +13,7 @@ article .post-data a.backtomain { display: none; }
 ¿Buscabas el [repositorio colaborativo de apuntes del Doble Grado](https://libreim.github.io/apuntesDGIIM/)?
 {:.fig}
 
-En esta sección recopilamos apuntes de asignaturas de Informática y Matemáticas redactados por estudiantes.
+En esta sección recopilamos apuntes de asignaturas de Informática y Matemáticas abiertos y con licencias libres redactados por estudiantes.
 
 Si tienes unos apuntes y quieres que aparezcan en esta lista, [edítala](https://github.com/libreim/awesome/edit/gh-pages/apuntes.md) añadiendo un enlace también al código fuente en caso de estar redactados en LaTeX, Markdown u otros lenguajes de composición. También puedes usar el [formulario de envío de recursos](http://tux.ugr.es/libreim/new/resource/), indicando que se trata de apuntes. Recuerda asociarlos a una licencia libre (por ejemplo, de tipo [Creative Commons](https://creativecommons.org/choose/)) para que los compañeros puedan compartirlo.
 
