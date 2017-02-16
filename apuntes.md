@@ -79,6 +79,7 @@ Escritos por Rodrigo Raya desde las clases de Pilar Carrasco (UGR).
  - [Inferencia Estadística](https://github.com/libreim/inferencia-estadistica/blob/master/StatisticalInference/inference.pdf)
  - [Código fuente](https://github.com/libreim/inferencia-estadistica/tree/master/StatisticalInference)
 
+Escritos por Andrés Herrera, Nuria Rodríguez, Javier Poyatos, María del Mar Ruiz y Juan Luis Suárez.
 
 ## Asignaturas optativas
 
