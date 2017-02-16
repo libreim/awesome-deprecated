@@ -92,3 +92,10 @@ Escritos por Andrés Herrera.
  - [Teoría de la Información (código fuente)](https://github.com/libreim/shannon-kolmogorov)
 
 Apuntes de Nicolò Cesa-Bianchi (UNIMI) traducidos por Mario Román.
+
+### Aprendizaje PAC
+
+  - [Aprendizaje PAC](https://github.com/libreim/PAC-learning/blob/master/introduccion.pdf)
+  - [Código fuente](https://github.com/libreim/PAC-learning)
+  
+Escritos por Ignacio Cordón.
