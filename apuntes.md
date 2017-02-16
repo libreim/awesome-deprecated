@@ -19,8 +19,13 @@ Si tienes unos apuntes y quieres que aparezcan en esta lista, [edítala](https:/
 
 ## Primer curso
 
-Aún no hay apuntes.
+### Cálculo I
 
+ - [Cálculo Diferencial e Integral](http://www.ugr.es/%7Efjperez/apuntes.html)
+ - [Código fuente](https://github.com/libreim/calculo)
+ 
+Escritos por Francisco Javier Pérez (UGR).
+ 
 ## Segundo curso
 
 ### Álgebra I
@@ -74,6 +79,14 @@ Aún no hay apuntes.
 Aún no hay apuntes.
 
 ## Apuntes adicionales
+
+### Algoritmos Genéticos
+
+ - [Algoritmos Genéticos](https://github.com/libreim/AlgoritmosGeneticos/blob/master/AlgoritmosGeneticos.pdf)
+ - [Código fuente](https://github.com/libreim/AlgoritmosGeneticos)
+
+Escritos por Andrés Herrera.
+
 ### Teoría de la Información
 
  - [Teoría de la Información (código fuente)](https://github.com/libreim/shannon-kolmogorov)
