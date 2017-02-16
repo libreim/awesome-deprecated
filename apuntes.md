@@ -47,17 +47,19 @@ Escritos por Javier Sáez, Daniel Pozo, Pedro Bonilla, Guillermo Galindo, Antoni
  - [Estructuras de Datos](https://github.com/libreim/apuntesDGIIM/wiki/Apuntes-en-PDF)
  - [Código fuente](https://github.com/libreim/apuntesDGIIM/tree/master/Estructura%20de%20datos)
 
-Escritos por Javier Sáez, Daniel Pozo y Jesús.
+Escritos por Javier Sáez, Daniel Pozo y Jesús Sánchez.
 
 ### Sistemas Operativos
 
  - [Sistemas Operativos](https://github.com/libreim/apuntesDGIIM/wiki/Apuntes-en-PDF) 
  - [Código fuente](https://github.com/libreim/apuntesDGIIM/tree/master/Sistemas%20Operativos)
 
-Escritos por Javier Sáez, Daniel Pozo, Pedro Bonilla, Guillermo Galindo, Antonio Coín, Sofía Almeida, Jesús y José María Martín.
+Escritos por Javier Sáez, Daniel Pozo, Pedro Bonilla, Guillermo Galindo, Antonio Coín, Sofía Almeida, Jesús Sánchez y José María Martín.
 
 ## Tercer curso
+
 ### Probabilidad
+
  - [Probabilidad](https://github.com/libreim/Probabilidad-I-DGIIM/blob/master/build/apuntes.pdf)
  - [Código fuente](https://github.com/libreim/Probabilidad-I-DGIIM/blob/master/apuntes.tex)
 
