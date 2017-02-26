@@ -68,7 +68,7 @@ Escritos por Francisco Luque, Braulio Valdivielso, Santiago De Diego.
 ### Álgebra II
 
  - [Álgebra II](https://github.com/libreim/apuntesalgebraii/blob/master/apuntesalgebraii/algebra2.pdf) 
- - [Código fuente](https://github.com/libreim/apuntesalgebraii/blob/master/apuntesalgebraii/algebra2.tex))
+ - [Código fuente](https://github.com/libreim/apuntesalgebraii/blob/master/apuntesalgebraii/algebra2.tex)
 
 Escritos por Rodrigo Raya desde las clases de Pilar Carrasco (UGR).
 
@@ -78,7 +78,6 @@ Escritos por Rodrigo Raya desde las clases de Pilar Carrasco (UGR).
 
  - [Inferencia Estadística](https://github.com/libreim/inferencia-estadistica/blob/master/StatisticalInference/inference.pdf)
  - [Código fuente](https://github.com/libreim/inferencia-estadistica/tree/master/StatisticalInference)
-
 
 ## Asignaturas optativas
 
@@ -110,3 +109,11 @@ Apuntes de Nicolò Cesa-Bianchi (UNIMI) traducidos por Mario Román.
   - [Código fuente](https://github.com/libreim/PAC-learning)
   
 Escritos por Ignacio Cordón.
+
+### Teoría de Categorías
+
+  - [Teoría de categorías](https://github.com/libreim/introCategorias/blob/master/tex/main.pdf)
+  - [Teoría de categorías (primera versión)](https://github.com/libreim/introCategorias/blob/master/categorias.pdf)
+  - [Código fuente](https://github.com/libreim/introCategorias)
+
+Escritos por Mario Román.
